@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/3.9.13
+Date: Fri, 10 Nov 2023 12:31:42 GMT
+Content-type: text/html
+Content-Length: 193
+Last-Modified: Wed, 08 Nov 2023 19:08:16 GMT
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
+        <p>This is an example of a simple HTML page with one paragraph.</p>
+    </body>
+</html>
